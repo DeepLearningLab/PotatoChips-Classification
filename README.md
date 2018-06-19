@@ -13,7 +13,7 @@ DLLab Day 2018 ハッカソン CV編
 
 ## データセット
 
-データセットは以下のコマンドでダウンロードできます。（うまくいかない場合は、[こちら](https://1drv.ms/u/s!Ag0C-0x1VRpvg2NlZl7xHG_XflGb)からダウンロードしてください。）
+データセットは以下のコマンドでダウンロードできます。（うまくいかない場合は、[こちら](https://1drv.ms/u/s!Ag0C-0x1VRpvg2czus7P57YFKP0x)からダウンロードしてください。）
 
 ```bash
 curl -L "https://rebrand.ly/dllab2018-hackathon-cv" -o data.tar.gz
